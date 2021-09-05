@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_basics",
+  "version": "1.0.0",
+  "description": "Node JS course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladislav Shaitanov <symphonyofhope@yandex.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
